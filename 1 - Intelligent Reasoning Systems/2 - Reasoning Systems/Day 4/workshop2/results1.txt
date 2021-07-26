@@ -1,0 +1,23 @@
+User-Based CF -Mean Error on Un-normalized Movie Lens dataset:
+
+pearsonsim = 0.84
+cosinesim = 0.86
+euclidsim = 0.85
+
+
+User-Based CF -Mean Error on Un-normalized Movie Lens dataset:
+
+pearsonsim = 0.788
+cosinesim = 0.779
+euclidsim = 0.80
+
+
+Jester dataset. Q13
+
+Cosine similarity, error = 3.9
+Cosine similarity, percentage ranking = 41
+Cosine similarity, lift over random = 2 (for N=5)
+
+Euclidean similarity, error = 3.4
+Euclidean similarity, percentage ranking = 43
+Euclidean similarity, lift over random = 1.5 (for N=5)

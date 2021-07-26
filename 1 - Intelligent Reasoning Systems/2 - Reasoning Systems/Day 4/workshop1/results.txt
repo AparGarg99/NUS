@@ -1,0 +1,27 @@
+#holdbacks= 277 recitems= 277 hits= 107 (38.63%) randrecitems= 277 randhits= 29 (10.47%) rulelift=3.69
+#holdbacks= 277 recitems= 554 hits= 140 (25.27%) randrecitems= 554 randhits= 75 (13.54%) rulelift=1.87
+#holdbacks= 277 recitems= 831 hits= 173 (20.82%) randrecitems= 831 randhits= 115 (13.84%) rulelift=1.50
+#holdbacks= 277 recitems= 1108 hits= 195 (17.60%) randrecitems= 1108 randhits= 124 (11.19%) rulelift=1.57
+#holdbacks= 277 recitems= 1385 hits= 209 (15.09%) randrecitems= 1385 randhits= 182 (13.14%) rulelift=1.15
+#holdbacks= 277 recitems= 1641 hits= 229 (13.95%) randrecitems= 1641 randhits= 227 (13.83%) rulelift=1.01
+#holdbacks= 277 recitems= 1879 hits= 253 (13.46%) randrecitems= 1879 randhits= 226 (12.03%) rulelift=1.12
+#holdbacks= 277 recitems= 2077 hits= 267 (12.86%) randrecitems= 2077 randhits= 265 (12.76%) rulelift=1.01
+#holdbacks= 277 recitems= 2199 hits= 273 (12.41%) randrecitems= 2199 randhits= 272 (12.37%) rulelift=1.00
+
+
+#holdbacks= 221 recitems= 221 hits= 69 (31.22%) randrecitems= 221 randhits= 32 (14.48%) rulelift=2.16
+#holdbacks= 221 recitems= 442 hits= 90 (20.36%) randrecitems= 442 randhits= 48 (10.86%) rulelift=1.88
+#holdbacks= 221 recitems= 663 hits= 121 (18.25%) randrecitems= 663 randhits= 75 (11.31%) rulelift=1.61
+#holdbacks= 221 recitems= 884 hits= 146 (16.52%) randrecitems= 884 randhits= 113 (12.78%) rulelift=1.29
+#holdbacks= 221 recitems= 1105 hits= 161 (14.57%) randrecitems= 1105 randhits= 146 (13.21%) rulelift=1.10
+#holdbacks= 221 recitems= 1314 hits= 177 (13.47%) randrecitems= 1314 randhits= 151 (11.49%) rulelift=1.17
+#holdbacks= 221 recitems= 1512 hits= 194 (12.83%) randrecitems= 1512 randhits= 172 (11.38%) rulelift=1.13
+#holdbacks= 221 recitems= 1681 hits= 211 (12.55%) randrecitems= 1681 randhits= 197 (11.72%) rulelift=1.07
+#holdbacks= 221 recitems= 1762 hits= 219 (12.43%) randrecitems= 1762 randhits= 209 (11.86%) rulelift=1.05
+
+
+
+n= 1 tests= 544 rulehits= 215 randhits= 61 lift= 3.5245901639344264
+n= 2 tests= 544 rulehits= 255 randhits= 140 lift= 1.8214285714285714
+n= 3 tests= 544 rulehits= 294 randhits= 206 lift= 1.4271844660194175
+n= 4 tests= 544 rulehits= 337 randhits= 281 lift= 1.199288256227758
