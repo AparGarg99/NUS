@@ -1,0 +1,14 @@
+
+Things to submit:
+=================
+Option 1
+---------
+1. word document summarizing your findings for the 4 questions.
+2. py code document for what you've done in miniproject 
+**With the two files zipped into "yourname-mini.zip"
+
+Option 2
+---------
+The Jupyter notebook you used for miniproject, showing the codes and results. (zip up if you have >1 files)
+**file name "yourname-mini.ipynb"
+
