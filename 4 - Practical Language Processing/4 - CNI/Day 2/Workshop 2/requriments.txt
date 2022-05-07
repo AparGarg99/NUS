@@ -1,0 +1,48 @@
+#Required libs and packages by CUI workshop
+#Suggest to create an new Anaconda Envirment and install the following packages
+#Admin privilege may be needed
+#16G extra harddisk 8G Mem is minimum requirment  
+
+
+For windows Please install git from https://git-scm.com/download/win
+
+#IntentDetection  Day2
+conda install sklearn
+pip install pandas
+pip install tensorflow==1.15.2
+
+#SlotsFiller Day2
+pip install nltk
+pip install spacy
+python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_md
+#python -m spacy download en_core_web_lg
+
+pip install git+https://www.github.com/keras-team/keras-contrib.git
+pip install matplotlib
+
+#DeeppavlovQA Day2
+pip install deeppavlov
+python -m deeppavlov install tfidf_logreg_en_faq
+
+pip install wrapt --upgrade --ignore-installed
+python -m deeppavlov install en_odqa_infer_wiki
+python -m deeppavlov install squad_bert
+
+
+
+#TGen Day3 AM
+pip install seaborn
+
+pip install regex
+pip install unicodecsv
+pip install enum34
+pip install rpyc
+pip install numpy==1.18.1
+pip install tensorflow==1.15.2
+pip install pudb
+pip install recordclass
+pip install https://github.com/kpu/kenlm/archive/master.zip
+pip install git+https://github.com/ufal/pytreex
+
+
