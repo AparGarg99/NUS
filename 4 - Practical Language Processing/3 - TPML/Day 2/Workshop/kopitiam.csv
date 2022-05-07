@@ -1,0 +1,169 @@
+SeqA,SeqB
+Kopi O,Black Coffee with Sugar
+Kopi,Black Coffee with Condensed Milk
+Kopi C,Black Coffee with Evaporated Milk
+Kopi Kosong,Black Coffee without sugar or milk
+Kopi Gah Dai,Black Coffee with extra condensed milk
+Kopi Siew Dai,Coffee with Condensed Milk but less sugar
+Kopi O Siew Dai,Black Coffee with less sugar
+Kopi Po,Coffee with Condensed Milk but weaker (they add more water)
+Kopi O Po,Black Coffee with Sugar but weaker (they add more water)
+Kopi Gau,Strong Coffee with Condensed Milk
+Kopi O Gau,Strong Black Coffee with Sugar
+Kopi Peng,Iced Coffee with Condensed Milk
+Kopi O Peng,Iced Black Coffee with sugar
+Kopi Gau Peng,Strong Iced Coffee with Condensed Milk
+Kopi O Gau Peng,Strong Black Coffee with Sugar
+Kopi Kosong Peng,Iced black coffee without sugar
+Kopi Gau Kosong Peng,Iced Strong Black coffee without Sugar or milk
+Kopi,Hot coffee with condensed milk and sugar
+Kopi Siew Dai,Hot coffee with condensed milk and lesser sugar
+Kopi Ga Dai,Hot coffee with condensed milk and more sugar
+Kopi Po,"Hot coffee with condensed milk and sugar, and lesser coffee powder"
+Kopi Gau,"Hot coffee with condensed milk and sugar, and more coffee powder"
+Kopi Po Siew Dai,Hot coffee with condensed milk and lesser coffee powder and lesser sugar
+Kopi Po Ga Dai,Hot coffee with condensed milk and lesser coffee powder and more sugar
+Kopi Gau Siew Dai,Hot coffee with condensed milk and more coffee powder and lesser sugar
+Kopi Gau Ga Dai,Hot coffee with condensed milk and more coffee powder and more sugar
+Kopi Kosong,Hot coffee with condensed milk only
+Kopi C,Hot coffee with evaporated milk and sugar
+Kopi C Siew Dai,Hot coffee with evaporated milk and lesser sugar
+Kopi C Ga Dai,Hot coffee with evaporated milk and more sugar
+Kopi C Po,Hot coffee with evaporated milk and lesser coffee powder
+Kopi C Gau,Hot coffee with evaporated milk and more coffee powder
+Kopi C Po Siew Dai,Hot coffee with evaporated milk and lesser coffee powder and lesser sugar
+Kopi C Po Ga Dai,Hot coffee with evaporated milk and lesser coffee powder and more sugar
+Kopi C Gau Siew Dai,Hot coffee with evaporated milk and more coffee powder and lesser sugar
+Kopi C Gau Ga Dai,Hot coffee with evaporated milk and more coffee powder and more sugar
+Kopi C Kosong,Hot coffee with evaporated milk only
+Kopi O,Hot black coffee with sugar only
+Kopi O Siew Dai,Hot black coffee with lesser sugar
+Kopi O Ga Dai,Hot black coffee with more sugar
+Kopi O Po,Hot black coffee with lesser coffee powder
+Kopi O Gau,Hot black coffee with more coffee powder
+Kopi O Po Siew Dai,Hot black coffee with lesser coffee powder and lesser sugar
+Kopi O Po Ga Dai,Hot black coffee with lesser coffee powder and more sugar
+Kopi O Gau Siew Dai,Hot black coffee with more coffee powder and lesser sugar
+Kopi O Gau Ga Dai,Hot black coffee with more coffee powder and more sugar
+Kopi O Kosong,Hot black coffee without milk and sugar
+Teh,Hot tea with condensed milk and sugar
+Teh Siew Dai,Hot tea with condensed milk and lesser sugar
+Teh Ga Dai,Hot tea with condensed milk and more sugar
+Teh Kosong,Hot tea with condensed milk only
+Teh Tarik,Pulled hot tea with condensed milk and sugar
+Teh Halia,"Hot tea with condensed milk, sugar and ginger"
+Teh C,Hot tea with evaporated milk and sugar
+Teh C Siew Dai,Hot tea with evaporated milk and lesser sugar
+Teh C Ga Dai,Hot tea with evaporated milk and more sugar
+Teh C Kosong,Hot tea with evaporated milk only
+Teh C Tarik,Pulled hot tea with evaporated milk and sugar
+Teh O,Hot tea with sugar only
+Teh O Siew Dai,Hot tea with lesser sugar
+Teh O Ga Dai,Hot tea with more sugar
+Teh O Kosong,Hot tea without milk and sugar
+Teh O Tarik,Pulled hot tea with sugar
+Tiao Her,Chinese tea in tea bags
+Tut Kiu,Hot Milo with condensed milk and sugar
+Milo Kosong,Hot Milo without milk and sugar
+Milo Dinosaur,"Iced Milo with condensed milk and sugar, and undissolved Milo powder as topping"
+Tak Kiu,Milo
+Tiao He,Chinese Tea
+Diao Yu,Chinese Tea
+Tai Ga Ho,Horlicks
+Micheal Jackson,Chin Chow and Soy Bean Milk
+Clementi,Lemon Tea
+Da Jia Hao,Horlicks
+Kup Poh,Kickapoo
+Ji Ba Ho,100 plus
+Ah Huey,Chrysanthemum Tea
+Buay Si Gor Lak,Pepsi Cola
+Lao Hor,Tiger Beer
+Orh Gao,Guinness Stout
+Ang Ji Gao,Guinness Stout
+Beer Gao,Lager with Guiness Stout
+Teh O,Tea with no milk added but includes sugar
+Teh C,Tea with evaporated milk and sugar instead of condensed milk
+Teh Siew Dai,Tea with less sugar
+Teh Ga Dai,Tea with more sugar
+Teh Kosong,Simply tea without any kind of milk or sugar
+Teh Gao,Thicker tea. Less water is added to the initial robust brew for a heavier taste.
+Teh Poh,Thinner tea. More water is added to dilute the beverage.
+Teh Tiloh,"Heaviest, purest version of tea with no water added at all to the initial brew"
+Teh Peng,Iced version of tea
+Kopi O,Coffee with no milk added but includes sugar
+Kopi C,Coffee with evaporated milk and sugar instead of condensed milk
+Kopi Siew Dai,Coffee with less sugar
+Kopi Ga Dai,Coffee with more sugar
+Kopi Kosong,Simply cofee without any kind of milk or sugar
+Kopi Gao,Thicker coffee Less water is added to the initial robust brew for a heavier taste.
+Kopi Poh,Thinner coffee More water is added to dilute the beverage.
+Kopi Tiloh,"Heaviest, purest version of coffee with no water added at all to the initial brew"
+Kopi Peng,Iced version of coffee
+Teh,Tea with condensed milk
+Teh kah dai,Tea with more condensed milk
+teh siu dai,Tea with less condensed milk
+Teh cino,Tea version of cappuccino
+Teh poh,Weak or thin tea with condensed milk
+Teh gao,Strong tea with condensed milk
+Teh titlo,Very strong tea with condensed milk and no water
+Teh C,Tea with evaporated milk.
+Teh C kah dai,Tea with evaporated milk with more milk and sugar
+Teh C siu dai,Tea with evaporated milk with less milk and less sugar
+Teh O,Tea without milk but with sugar
+Teh O kah dai,Tea without milk but with more sugar
+Teh O siu dai,Tea without milk with less sugar
+Teh O kosong,Tea without milk and without sugar
+Teh O ice limau,Home brewed iced lemon tea
+Teh Alia,Tea with condensed milk with ginger
+Teh Tarik,"‘Pulled’ tea with milk, a Malay specialty"
+Bandung,Rose syrup and evaporated milk drink
+Ice kosong,Iced water
+Horlick Sio,Hot Horlicks
+Horlick Peng,Ice Horlicks
+Horlick dinosaur,Hot Horlicks with extra scoop of undissolved Horlicks powder on top
+Tak Kiu,Milo
+Tak Kiu Peng,Iced Milo
+Milo dinosaur,Iced Milo with extra scoop of undissolved Milo powder on top
+Tiau Herr,Tea served with the teabag.
+Milo Peng,Ice Milo
+Tiau Yu,Tea served with the teabag.
+Kopi,Coffee with condensed milk
+Kopi O,Black coffee with sugar
+Kopi Gau,Strong coffee with condensed milk
+Teh C,Tea with evaporated milk and sugar
+Teh O Gau,Stronger tea concentration
+Teh Peng,Iced tea with condensed milk
+Kopi Gah Dai,Extra sweet coffee with condensed milk
+Kopi Kosong,Coffee with condensed milk but no sugar
+Kopi C Kosong,Coffee with evaporated milk and no sugar
+Teh O Siew Dai,Tea with less sugar
+Teh O Poh,Weaker tea concentration with sugar
+Teh C Peng Dapao,"Iced tea with evaporated milk and sugar, takeaway"
+Kopi siu dai,coffee with less sugar
+Kopi o kosong,"coffee, black, no sugar"
+Teh see,tea with evaporated milk
+Teh tarik,"pulled tea, a frothy, sweet, milk tea"
+Tat kiu,Milo
+Diao yu,Chinese tea
+Michael Jackson,Soya bean milk mixed with grass jelly
+Kopi,coffee with condensed milk
+Kopi gau,strong brew of coffee with condensed milk
+Kopi poh,weak brew of coffee with condensed milk
+Kopi C,coffee with evaporated milk and sugar
+Kopi C kosong,coffee with evaporated milk but no sugar
+Kopi O,coffee with sugar only
+Kopi O kosong,coffee without sugar or milk
+Kopi O kosong gau,a strong brew of coffee without sugar or milk
+Kopi peng,"coffee with milk,  sugar and ice"
+Kopi siu dai,coffee with less sugar
+Kopi gah dai,coffee with extra sugar
+Teh,tea with condensed milk
+Teh C,tea with evaporated milk and sugar
+Teh C kosong,tea with milk and no sugar
+Teh O,tea with sugar only
+Teh O kosong,tea without milk or sugar
+Teh tarik,the Malay tea described above
+Teh halia,tea with ginger water
+Teh peng,tea with ice
+Teh siu dai,tea with milk and less sugar
+Teh gah dai,tea with milk and more sugar
